@@ -1,0 +1,20 @@
+backend:
+  replicaCount: 1
+  image: 232048052422.dkr.ecr.us-east-1.amazonaws.com/ai-saas-backend:4324365162f3aa173218ce91abc2a52e284a7566
+
+worker:
+  replicaCount: 1
+  image: 232048052422.dkr.ecr.us-east-1.amazonaws.com/ai-saas-backend:4324365162f3aa173218ce91abc2a52e284a7566
+
+resources:
+  requests:
+    memory: "128Mi"
+    cpu: "100m"
+  limits:
+    memory: "256Mi"
+    cpu: "250m"
+
+service:
+  type: LoadBalancer
+  port: 80
+  targetPort: 8000

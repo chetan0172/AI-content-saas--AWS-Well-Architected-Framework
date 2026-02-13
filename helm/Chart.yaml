@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ai-saas-backend
+description: A Helm chart for my AI SaaS
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
