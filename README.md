@@ -387,7 +387,14 @@ terraform destroy -auto-approve
 
 Stops billing immediately.
 
----
+---<img width="1904" height="990" alt="Load balancer Multi -Az" src="https://github.com/user-attachments/assets/fa2b9b15-8c1a-4dff-a8d0-98c6691afdc6" />
+<img width="1905" height="994" alt="S3 objects" src="https://github.com/user-attachments/assets/aab070eb-7f09-4e2f-968e-662306eeef64" />
+<img width="1883" height="1002" alt="Auto sclae down" src="https://github.com/user-attachments/assets/13b2bd4d-bf98-4bdf-bd30-f4610d7fcd30" />
+<img width="1890" height="993" alt="Cloud-watch" src="https://github.com/user-attachments/assets/f42c43b6-2080-4278-914d-f7f6195a51bb" />
+<img width="1909" height="1070" alt="Vs Code" src="https://github.com/user-attachments/assets/d663cfc8-52a9-4c11-a926-339754ccf9b8" />
+<img width="1917" height="991" alt="Auto scaling" src="https://github.com/user-attachments/assets/3b441784-496d-49c1-9f20-9adcb9559c6d" />
+<img width="1899" height="981" alt="SQS" src="https://github.com/user-attachments/assets/afe61545-3f1c-47a0-bbc2-3f4be3cd1586" />
+
 
 #  Final Result
 
