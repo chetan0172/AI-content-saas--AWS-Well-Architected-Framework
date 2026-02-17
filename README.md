@@ -292,7 +292,8 @@ Kubernetes is industry standard for large enterprises.
 
 ![Image](https://assets.cloudacademy.com/bakery/media/uploads/entity/blobid1-ed9f8e01-0402-4fcd-887f-25b8f50888f2.png)
 
----
+---![Uploading Screenshot 2026-02-17 085723.png…]()
+
 
 ## Step 1: Provision EKS with Terraform
 
